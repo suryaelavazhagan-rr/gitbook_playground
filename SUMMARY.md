@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [Feature 1](README.md)
